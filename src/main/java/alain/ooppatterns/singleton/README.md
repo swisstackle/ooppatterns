@@ -1,0 +1,1 @@
+Implementation of a simplified (& modified) version of the java.util.Logger using the Singleton OOP pattern and double-checked locking.
